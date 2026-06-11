@@ -1,6 +1,6 @@
 # Hi 👋, I'm Luis Felipe
 
-## Full Stack Developer | Backend Enthusiast | Lifelong Learner
+## Aspiring Backend Developer | Full Stack Developer Junior | Lifelong Learner
 
 - 💻 Desarrollador Full Stack Junior apasionado por crear soluciones web.
 - 🚀 Enfocado en el desarrollo backend con Node.js y FastAPI.
